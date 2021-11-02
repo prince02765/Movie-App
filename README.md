@@ -8,7 +8,13 @@ Download Apk [here](https://drive.google.com/file/d/1TCIQi-VNwDAvBAMRhyK-D4Ai07n
 https://user-images.githubusercontent.com/69643676/139663469-b1716831-34e1-42ae-88d1-98ecba528bff.mp4
 
 
+# What I Used?
 
+- TMDB API
+- GestureDetector
+- Open Container
+- PageController
+- Google Fonts
 
 
 ## Getting Started
